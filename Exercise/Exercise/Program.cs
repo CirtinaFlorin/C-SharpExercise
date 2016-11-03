@@ -13,6 +13,9 @@ namespace Exercise
             Exercise_1 afisare = new Exercise_1();
             afisare.main();
 
+            Exercise_2 rezultat = new Exercise_2();
+            rezultat.main();
+
 
 
             Console.ReadKey();

@@ -19,14 +19,17 @@ namespace Exercise
             Exercise_3 impartire = new Exercise_3();
             impartire.main();
 
-            Exercise_4 output = new Exercise_4();
-            output.main();
+           // Exercise_4 output = new Exercise_4();
+           // output.main();
 
-            Exercise_5 swap = new Exercise_5();
-            swap.main();
+           // Exercise_5 swap = new Exercise_5();
+           // swap.main();
 
-            Exercise_6 multiply = new Exercise_6();
-            multiply.main();
+           // Exercise_6 multiply = new Exercise_6();
+           // multiply.main();
+
+            Exercise_7 twonumber = new Exercise_7();
+            twonumber.main();
 
 
 

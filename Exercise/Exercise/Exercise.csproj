@@ -48,6 +48,7 @@
     <Compile Include="Exercise-11.cs" />
     <Compile Include="Exercise-12.cs" />
     <Compile Include="Exercise-13.cs" />
+    <Compile Include="Exercise-14.cs" />
     <Compile Include="Exercise-2.cs" />
     <Compile Include="Exercise-3.cs" />
     <Compile Include="Exercise-4.cs" />

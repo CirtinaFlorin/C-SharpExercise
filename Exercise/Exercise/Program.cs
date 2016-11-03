@@ -34,8 +34,12 @@ namespace Exercise
             //Exercise_8 tablem = new Exercise_8();
             //tablem.main();
 
-            Exercise_9 average = new Exercise_9();
-            average.main();
+            // Exercise_9 average = new Exercise_9();
+            //average.main();
+
+            Exercise_10 ecuatie = new Exercise_10();
+            ecuatie.main();
+
 
 
 

@@ -40,8 +40,11 @@ namespace Exercise
             //Exercise_10 ecuatie = new Exercise_10();
             //ecuatie.main();
 
-            Exercise_11 age = new Exercise_11();
-            age.main();
+            // Exercise_11 age = new Exercise_11();
+            // age.main();
+
+            Exercise_12 number = new Exercise_12();
+            number.main();
 
 
 

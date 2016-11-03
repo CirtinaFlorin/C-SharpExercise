@@ -37,8 +37,11 @@ namespace Exercise
             // Exercise_9 average = new Exercise_9();
             //average.main();
 
-            Exercise_10 ecuatie = new Exercise_10();
-            ecuatie.main();
+            //Exercise_10 ecuatie = new Exercise_10();
+            //ecuatie.main();
+
+            Exercise_11 age = new Exercise_11();
+            age.main();
 
 
 

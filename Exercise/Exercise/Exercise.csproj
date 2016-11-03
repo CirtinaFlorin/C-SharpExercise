@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Exercise-1.cs" />
     <Compile Include="Exercise-10.cs" />
+    <Compile Include="Exercise-11.cs" />
     <Compile Include="Exercise-2.cs" />
     <Compile Include="Exercise-3.cs" />
     <Compile Include="Exercise-4.cs" />

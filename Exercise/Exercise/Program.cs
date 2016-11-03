@@ -10,29 +10,32 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
-          //  Exercise_1 afisare = new Exercise_1();
-           // afisare.main();
+            //  Exercise_1 afisare = new Exercise_1();
+            // afisare.main();
 
-           // Exercise_2 rezultat = new Exercise_2();
-           // rezultat.main();
+            // Exercise_2 rezultat = new Exercise_2();
+            // rezultat.main();
 
             //Exercise_3 impartire = new Exercise_3();
-           // impartire.main();
+            // impartire.main();
 
-           // Exercise_4 output = new Exercise_4();
-           // output.main();
+            // Exercise_4 output = new Exercise_4();
+            // output.main();
 
-           // Exercise_5 swap = new Exercise_5();
-           // swap.main();
+            // Exercise_5 swap = new Exercise_5();
+            // swap.main();
 
-           // Exercise_6 multiply = new Exercise_6();
-           // multiply.main();
+            // Exercise_6 multiply = new Exercise_6();
+            // multiply.main();
 
             //Exercise_7 twonumber = new Exercise_7();
             //twonumber.main();
 
-            Exercise_8 tablem = new Exercise_8();
-            tablem.main();
+            //Exercise_8 tablem = new Exercise_8();
+            //tablem.main();
+
+            Exercise_9 average = new Exercise_9();
+            average.main();
 
 
 

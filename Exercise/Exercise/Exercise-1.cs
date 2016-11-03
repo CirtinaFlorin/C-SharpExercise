@@ -6,16 +6,13 @@ using System.Threading.Tasks;
 
 namespace Exercise
 {
-    class Program
+    class Exercise_1
     {
-        static void Main(string[] args)
+        public void main()
         {
-            Exercise_1 afisare = new Exercise_1();
-            afisare.main();
-
-
-
-            Console.ReadKey();
+            Console.WriteLine("Hello:");
+            Console.WriteLine("Florin Cirtina");
         }
+        
     }
 }

@@ -25,6 +25,9 @@ namespace Exercise
             Exercise_5 swap = new Exercise_5();
             swap.main();
 
+            Exercise_6 multiply = new Exercise_6();
+            multiply.main();
+
 
 
             Console.ReadKey();

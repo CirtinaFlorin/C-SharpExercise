@@ -19,6 +19,9 @@ namespace Exercise
             Exercise_3 impartire = new Exercise_3();
             impartire.main();
 
+            Exercise_4 output = new Exercise_4();
+            output.main();
+
 
 
             Console.ReadKey();

@@ -22,6 +22,9 @@ namespace Exercise
             Exercise_4 output = new Exercise_4();
             output.main();
 
+            Exercise_5 swap = new Exercise_5();
+            swap.main();
+
 
 
             Console.ReadKey();

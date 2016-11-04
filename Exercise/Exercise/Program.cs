@@ -10,6 +10,9 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
+
+            ////////////////////////Basic Exercises/////////////////////////////
+
             //  Exercise_1 afisare = new Exercise_1();
             // afisare.main();
 
@@ -49,9 +52,14 @@ namespace Exercise
             //Exercise_13 rectangle = new Exercise_13();
             //rectangle.main();
 
-            Exercise_14 convert = new Exercise_14();
-            convert.main();
+            //Exercise_14 convert = new Exercise_14();
+            //convert.main();
 
+
+            ////////////////////////Data Types Exercises/////////////////////////////
+
+            DTExcerise_1 reverse = new DTExcerise_1();
+            reverse.main();
 
 
 

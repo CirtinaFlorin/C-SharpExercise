@@ -64,8 +64,11 @@ namespace Exercise
             //DTExercise_2 triunghi = new DTExercise_2();
             //triunghi.main();
 
-            DTExercise_3 user = new DTExercise_3();
-            user.main();
+            //DTExercise_3 user = new DTExercise_3();
+            //user.main();
+
+            DTExercise_4 operation = new DTExercise_4();
+            operation.main();
 
 
 

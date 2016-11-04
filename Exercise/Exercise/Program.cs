@@ -70,8 +70,12 @@ namespace Exercise
             //DTExercise_4 operation = new DTExercise_4();
             //operation.main();
 
-            DTExercise_5 radius = new DTExercise_5();
-            radius.main();
+            //DTExercise_5 radius = new DTExercise_5();
+            //radius.main();
+
+            DTExercise_6 displayF = new DTExercise_6();
+            displayF.main();
+
 
 
 

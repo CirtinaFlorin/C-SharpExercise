@@ -73,8 +73,11 @@ namespace Exercise
             //DTExercise_5 radius = new DTExercise_5();
             //radius.main();
 
-            DTExercise_6 displayF = new DTExercise_6();
-            displayF.main();
+            //DTExercise_6 displayF = new DTExercise_6();
+            //displayF.main();
+
+            DTExercise_7 distance = new DTExercise_7();
+            distance.main();
 
 
 

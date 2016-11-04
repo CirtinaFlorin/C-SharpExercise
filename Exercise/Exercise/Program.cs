@@ -58,11 +58,14 @@ namespace Exercise
 
             ////////////////////////Data Types Exercises/////////////////////////////
 
-            // DTExcerise_1 reverse = new DTExcerise_1();
-            //  reverse.main();
+            //DTExcerise_1 reverse = new DTExcerise_1();
+            //reverse.main();
 
-            DTExercise_2 triunghi = new DTExercise_2();
-            triunghi.main();
+            //DTExercise_2 triunghi = new DTExercise_2();
+            //triunghi.main();
+
+            DTExercise_3 user = new DTExercise_3();
+            user.main();
 
 
 

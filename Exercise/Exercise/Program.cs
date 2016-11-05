@@ -82,8 +82,11 @@ namespace Exercise
             //DTExercise_8 radsphere = new DTExercise_8();
             //radsphere.main();
 
-            DTExercise_9 character = new DTExercise_9();
-            character.main();
+            //DTExercise_9 character = new DTExercise_9();
+            //character.main();
+
+            DTExercise_10 evenodd = new DTExercise_10();
+            evenodd.main();
 
 
 

@@ -51,6 +51,7 @@
     <Compile Include="CSExercise-6.cs" />
     <Compile Include="CSExercise-7.cs" />
     <Compile Include="CSExercise-8.cs" />
+    <Compile Include="CSExercise-9.cs" />
     <Compile Include="DTExcerise-1.cs" />
     <Compile Include="DTExercise-10.cs" />
     <Compile Include="DTExercise-11.cs" />

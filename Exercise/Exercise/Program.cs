@@ -116,8 +116,11 @@ namespace Exercise
             //CSExercise_7 height = new CSExercise_7();
             //height.main();
 
-            CSExercise_8 largestnr = new CSExercise_8();
-            largestnr.main();
+            //CSExercise_8 largestnr = new CSExercise_8();
+            //largestnr.main();
+
+            CSExercise_9 coordinate = new CSExercise_9();
+            coordinate.main();
 
 
 

@@ -119,8 +119,11 @@ namespace Exercise
             //CSExercise_8 largestnr = new CSExercise_8();
             //largestnr.main();
 
-            CSExercise_9 coordinate = new CSExercise_9();
-            coordinate.main();
+            //CSExercise_9 coordinate = new CSExercise_9();
+            //coordinate.main();
+
+            CSExercise_10 admission = new CSExercise_10();
+            admission.mian();
 
 
 

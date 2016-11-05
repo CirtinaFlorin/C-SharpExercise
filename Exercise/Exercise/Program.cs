@@ -104,8 +104,11 @@ namespace Exercise
             //CSExercise_3 positivenegative = new CSExercise_3();
             //positivenegative.main();
 
-            CSExercise_4 leapyear = new CSExercise_4();
-            leapyear.main();
+            //CSExercise_4 leapyear = new CSExercise_4();
+            //leapyear.main();
+
+            CSExercise_5 agecasting = new CSExercise_5();
+            agecasting.main();
 
 
 

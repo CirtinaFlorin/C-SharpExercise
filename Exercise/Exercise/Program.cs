@@ -110,8 +110,11 @@ namespace Exercise
             //CSExercise_5 agecasting = new CSExercise_5();
             //agecasting.main();
 
-            CSExercise_6 value = new CSExercise_6();
-            value.main();
+            //CSExercise_6 value = new CSExercise_6();
+            //value.main();
+
+            CSExercise_7 height = new CSExercise_7();
+            height.main();
 
 
 

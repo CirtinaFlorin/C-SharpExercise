@@ -95,8 +95,11 @@ namespace Exercise
             ////////////////////////Conditional Statement Exercises/////////////////////////////
 
 
-            CSExercise_1 twointeger = new CSExercise_1();
-            twointeger.main();
+            //CSExercise_1 twointeger = new CSExercise_1();
+            //twointeger.main();
+
+            CSExercise_2 oddoreven = new CSExercise_2();
+            oddoreven.main();
 
 
 

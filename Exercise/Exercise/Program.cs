@@ -107,8 +107,11 @@ namespace Exercise
             //CSExercise_4 leapyear = new CSExercise_4();
             //leapyear.main();
 
-            CSExercise_5 agecasting = new CSExercise_5();
-            agecasting.main();
+            //CSExercise_5 agecasting = new CSExercise_5();
+            //agecasting.main();
+
+            CSExercise_6 value = new CSExercise_6();
+            value.main();
 
 
 

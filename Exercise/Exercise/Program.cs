@@ -98,8 +98,11 @@ namespace Exercise
             //CSExercise_1 twointeger = new CSExercise_1();
             //twointeger.main();
 
-            CSExercise_2 oddoreven = new CSExercise_2();
-            oddoreven.main();
+            //CSExercise_2 oddoreven = new CSExercise_2();
+            //oddoreven.main();
+
+            CSExercise_3 positivenegative = new CSExercise_3();
+            positivenegative.main();
 
 
 

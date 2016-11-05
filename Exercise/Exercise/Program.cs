@@ -88,11 +88,15 @@ namespace Exercise
             //DTExercise_10 evenodd = new DTExercise_10();
             //evenodd.main();
 
-            DTExercise_11 decimalnumber = new DTExercise_11();
-            decimalnumber.main();
+            //DTExercise_11 decimalnumber = new DTExercise_11();
+            //decimalnumber.main();
 
 
+            ////////////////////////Conditional Statement Exercises/////////////////////////////
 
+
+            CSExercise_1 twointeger = new CSExercise_1();
+            twointeger.main();
 
 
 

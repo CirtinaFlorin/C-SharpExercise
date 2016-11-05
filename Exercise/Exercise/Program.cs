@@ -85,8 +85,11 @@ namespace Exercise
             //DTExercise_9 character = new DTExercise_9();
             //character.main();
 
-            DTExercise_10 evenodd = new DTExercise_10();
-            evenodd.main();
+            //DTExercise_10 evenodd = new DTExercise_10();
+            //evenodd.main();
+
+            DTExercise_11 decimalnumber = new DTExercise_11();
+            decimalnumber.main();
 
 
 

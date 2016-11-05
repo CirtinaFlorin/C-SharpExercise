@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DTExcerise-1.cs" />
     <Compile Include="DTExercise-10.cs" />
+    <Compile Include="DTExercise-11.cs" />
     <Compile Include="DTExercise-2.cs" />
     <Compile Include="DTExercise-3.cs" />
     <Compile Include="DTExercise-4.cs" />

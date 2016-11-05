@@ -79,8 +79,11 @@ namespace Exercise
             //DTExercise_7 distance = new DTExercise_7();
             //distance.main();
 
-            DTExercise_8 radsphere = new DTExercise_8();
-            radsphere.main();
+            //DTExercise_8 radsphere = new DTExercise_8();
+            //radsphere.main();
+
+            DTExercise_9 character = new DTExercise_9();
+            character.main();
 
 
 
